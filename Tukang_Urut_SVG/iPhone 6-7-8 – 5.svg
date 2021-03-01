@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 667">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-iPhone_6_7_8_5);
+      }
+
+      .cls-2, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-3, .cls-6, .cls-8, .cls-9 {
+        fill: #707070;
+      }
+
+      .cls-12, .cls-3 {
+        font-size: 18px;
+      }
+
+      .cls-3, .cls-8, .cls-9 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-4 {
+        fill: #006bfd;
+        stroke: #685ff5;
+      }
+
+      .cls-5 {
+        font-size: 23px;
+      }
+
+      .cls-11, .cls-12, .cls-5 {
+        font-family: SegoeUI-Semibold, Segoe UI;
+        font-weight: 600;
+      }
+
+      .cls-14, .cls-7 {
+        fill: none;
+      }
+
+      .cls-7 {
+        stroke: #707070;
+        stroke-width: 2px;
+      }
+
+      .cls-8 {
+        font-size: 19px;
+      }
+
+      .cls-9 {
+        font-size: 17px;
+      }
+
+      .cls-10 {
+        font-size: 30px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-11 {
+        fill: #6c6c6c;
+        font-size: 20px;
+      }
+
+      .cls-12 {
+        fill: #4d97fd;
+        text-decoration: underline;
+      }
+
+      .cls-13 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-iPhone_6_7_8_5">
+      <rect width="375" height="667"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_6_7_8_5" data-name="iPhone 6/7/8 – 5" class="cls-1">
+    <rect class="cls-2" width="375" height="667"/>
+    <rect id="Rectangle_55" data-name="Rectangle 55" class="cls-2" width="375" height="666.667" transform="translate(0 -0.222)"/>
+    <text id="Already_have_an_account_" data-name="Already have an account ?" class="cls-3" transform="translate(47.172 519.819)"><tspan x="0" y="0">Already have an account ?</tspan></text>
+    <g id="Group_9" data-name="Group 9" transform="translate(73.958 427.903)">
+      <g id="Group_8" data-name="Group 8" transform="translate(0)">
+        <g id="Rectangle_56" data-name="Rectangle 56" class="cls-4">
+          <rect class="cls-13" width="228.125" height="51.042" rx="24.5"/>
+          <rect class="cls-14" x="0.5" y="0.5" width="227.125" height="50.042" rx="24"/>
+        </g>
+      </g>
+      <text id="Sign_Up" data-name="Sign Up" class="cls-5" transform="translate(69.707 34.375)"><tspan x="0" y="0">Sign Up</tspan></text>
+    </g>
+    <g id="Group_11" data-name="Group 11" transform="translate(280.208 357.069)">
+      <g id="Group_10" data-name="Group 10" transform="translate(0 0)">
+        <path id="Path_161" data-name="Path 161" class="cls-6" d="M12.458,4.5A12.32,12.32,0,0,0,1,12.312a12.309,12.309,0,0,0,22.917,0A12.32,12.32,0,0,0,12.458,4.5Zm0,13.021a5.208,5.208,0,1,1,5.208-5.208A5.208,5.208,0,0,1,12.458,17.521Zm0-8.333a3.125,3.125,0,1,0,3.125,3.125A3.125,3.125,0,0,0,12.458,9.188Z" transform="translate(-1 -4.5)"/>
+      </g>
+      <line id="Line_4" data-name="Line 4" class="cls-7" y1="15.625" x2="22.917" transform="translate(0.521 0.521)"/>
+    </g>
+    <line id="Line_5" data-name="Line 5" class="cls-7" x2="240.04" transform="translate(67.27 380.507)"/>
+    <text id="Password" class="cls-8" transform="translate(66.438 369.736)"><tspan x="0" y="0">Password</tspan></text>
+    <line id="Line_6" data-name="Line 6" class="cls-7" x2="240.04" transform="translate(67.27 295.09)"/>
+    <text id="Verification_Code" data-name="Verification Code" class="cls-8" transform="translate(67.495 284.319)"><tspan x="0" y="0">Verification Code</tspan></text>
+    <path id="Path_162" data-name="Path 162" class="cls-7" d="M0,0H240.04" transform="translate(67.599 212.799)"/>
+    <g id="Group_12" data-name="Group 12" transform="translate(68.135 183.111)">
+      <text id="Username" class="cls-9" transform="translate(0 18)"><tspan x="0" y="0">Username</tspan></text>
+    </g>
+    <text id="Sign_Up-2" data-name="Sign Up" class="cls-10" transform="translate(129.875 105.736)"><tspan x="0" y="0">Sign Up</tspan></text>
+    <text id="Cancel" class="cls-11" transform="translate(156.361 596.778)"><tspan x="0" y="0">Cancel</tspan></text>
+    <g id="Group_13" data-name="Group 13" transform="translate(269.506 500.819)">
+      <text id="Sign_In" data-name="Sign In" class="cls-12" transform="translate(0 19)"><tspan x="0" y="0">Sign In</tspan></text>
+    </g>
+  </g>
+</svg>

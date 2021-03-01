@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 667">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-iPhone_6_7_8_9);
+      }
+
+      .cls-2 {
+        fill: #f7f7f7;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #707070;
+      }
+
+      .cls-3 {
+        font-size: 15px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-iPhone_6_7_8_9">
+      <rect width="375" height="667"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_6_7_8_9" data-name="iPhone 6/7/8 – 9" class="cls-1">
+    <rect class="cls-5" width="375" height="667"/>
+    <g id="Search_Bar" data-name="Search Bar" transform="translate(0 -15)">
+      <rect id="search_bar-2" data-name="search bar" class="cls-2" width="330" height="35" rx="8" transform="translate(23 28)"/>
+      <text id="Cari_Yang_Kamu_Mau" data-name="Cari Yang Kamu Mau" class="cls-3" transform="translate(33 52)"><tspan x="0" y="0">Cari Yang Kamu Mau</tspan></text>
+      <g id="search_icon" data-name="search icon" transform="translate(305 30)">
+        <path id="Path_181" data-name="Path 181" class="cls-4" d="M20.28,18.566h-.908l-.314-.314a7.372,7.372,0,1,0-.805.811l.314.314v.9l5.712,5.7,1.7-1.7Zm-6.854,0a5.141,5.141,0,1,1,5.141-5.141A5.141,5.141,0,0,1,13.425,18.566Z" transform="translate(-3)"/>
+      </g>
+    </g>
+  </g>
+</svg>
